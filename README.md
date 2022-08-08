@@ -13,3 +13,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hiennguyen11902/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100025944242778)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hiennguyen10x)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hienguyenUET&langs_count=8)](https://github.com/hienguyenUET/github-readme-stats)
