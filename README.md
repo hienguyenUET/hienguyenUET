@@ -1,10 +1,11 @@
+
+
 ### Hi there! Have a nice day!
 
 <hr/>
 
-###  Welcome to my github profile.
-- 🔭 I’m currently studying at University of Engineering and Technology - VNU
-- 🌱 I’m currently learning Computer Science
+###  Welcome to my github profile <span style="color: #e25555;">&hearts;</span>
+<div style="font-size: 3px"> My name is Nguyen Chi Hien. I am currently studying Computer Science at University of Engineering and Technology - VNU. </div>
 <hr/>
 
 ### How to reach me: 
