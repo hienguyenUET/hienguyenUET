@@ -2,12 +2,30 @@
 
 # Hi there! Have a nice day!
 
-#####  Welcome to my github profile <span style="color: #e25555;">&hearts;</span>
-<div font="1px">I'm Hien, currently living in <img src="https://user-images.githubusercontent.com/77535619/183337925-b3581cb1-d86a-4b22-a070-81231e36fb49.png" style="width:16px"/> <span style="font-weight: strike">Hanoi, Vietnam</span></div>
+####  Welcome to my github profile <span style="color: #e25555;">&hearts;</span>
+<div font="1px">I'm Hien, currently living in <img src="https://user-images.githubusercontent.com/77535619/183337925-b3581cb1-d86a-4b22-a070-81231e36fb49.png" style="width:16px"/> <b>Hanoi, Vietnam</b></div>
 <div>I am a sophomore Computer Science student at University of Engineering and Techology  - VNU</div>
 
 
 ### Things I code with:
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=flat-square&logo=json&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue"/>
+  <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img alt="Spring boo" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot"/>
+</p>
+
+### My favorite code editor and IDE:
+<p>
+  <img alt="Intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" />
+  <img alt="VsCode" src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+</p>
 
 ### Open source project:
 
