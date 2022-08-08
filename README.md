@@ -2,11 +2,11 @@
 
 ### Hi there! Have a nice day!
 
-<hr/>
+
 
 ###  Welcome to my github profile <span style="color: #e25555;">&hearts;</span>
 <div style="font-size: 3px"> My name is Nguyen Chi Hien. I am currently studying Computer Science at University of Engineering and Technology - VNU. </div>
-<hr/>
+
 
 ### How to reach me: 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hien-nguyen-chi-555344209/)
