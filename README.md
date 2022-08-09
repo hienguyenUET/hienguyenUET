@@ -3,8 +3,8 @@
 # Hi there! Have a nice day!
 
 ####  Welcome to my github profile <span style="color: #e25555;">&hearts;</span>
-<div font="1px">I'm Hien, currently living in <img src="https://user-images.githubusercontent.com/77535619/183337925-b3581cb1-d86a-4b22-a070-81231e36fb49.png" style="width:16px"/> <b>Hanoi, Vietnam</b></div>
-<div>I am a sophomore Computer Science student at University of Engineering and Techology  - VNU</div>
+<div font="1px">I'm Hien, currently living in <img src="https://user-images.githubusercontent.com/77535619/183337925-b3581cb1-d86a-4b22-a070-81231e36fb49.png" style="width:16px"/> <b>Hanoi, Vietnam.</b></div>
+<div>I am a <b><i>sophomore Computer Science student</i></b> at <b>University of Engineering and Techology  - VNU</b></div>
 
 
 ### Things I code with:
