@@ -32,6 +32,23 @@
 </p>
 
 ### Open source project:
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/hienguyenUET/Dictionary.git"><b>Dictionary using Java and Swing</b></a></td>
+    </tr>
+	  <tr>
+     <td>
+        <a href="https://github.com/hienguyenUET/movie-website-project.git"><b>Movie Website using Spring boot</b></a>
+     </td>
+    </tr>
+  </tbody>
+</table>
 
 ### How to reach me: 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hien-nguyen-chi-555344209/)
