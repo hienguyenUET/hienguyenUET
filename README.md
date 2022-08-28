@@ -52,6 +52,11 @@
   </tbody>
 </table>
 
+### My DevCard
+<a href="https://app.daily.dev/hiennguyen10x">
+	<img src="https://api.daily.dev/devcards/be193c894b6747bfbf3dac240b8df204.png?r=9df" width="400" alt="Nguyen Chi Hien's Dev Card"/>
+</a>
+
 ### How to reach me: 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hien-nguyen-chi-555344209/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hiennguyen11902/)
