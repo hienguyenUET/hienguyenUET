@@ -55,6 +55,8 @@
 	<img src="https://api.daily.dev/devcards/be193c894b6747bfbf3dac240b8df204.png?r=9df" width="400" alt="Nguyen Chi Hien's Dev Card"/>
 </a>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nguyenhien02" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://vn.linkedin.com/in/nguyenhien02?trk=profile-badge">Hiển Nguyễn</a></div>
+              
 ### How to reach me: 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hien-nguyen-chi-555344209/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hiennguyen11902/)
