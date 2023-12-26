@@ -49,7 +49,7 @@
 </table>
 
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nguyenhien02" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://vn.linkedin.com/in/nguyenhien02?trk=profile-badge">Hiển Nguyễn</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nguyenhien02" data-version="v1"><a class="badge-base__link LI-simple-link" 
               
 ### How to reach me: 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyenhien02/)
